@@ -1,6 +1,6 @@
 # MomsSpaghetti
 
-Important: Please be listening to [http://momspaghetti.ytmnd.com/](this) while reading.
+Important: Please be listening to [this](http://momspaghetti.ytmnd.com/) while reading.
 
 With that out of the way, onward.
 

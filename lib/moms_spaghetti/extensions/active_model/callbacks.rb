@@ -1,3 +1,5 @@
 module ActiveModel::Callbacks
-  CALLBACKS = []
+  def define_model_callbacks(*callyaks)
+  	raise "❨╯°□°❩╯︵sʞɔɐqllɐɔ"
+  end
 end

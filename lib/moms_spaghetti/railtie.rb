@@ -1,5 +1,4 @@
-require "moms_spaghetti/extensions/active_model/callbacks"
-require "moms_spaghetti/extensions/active_record/callbacks"
+require "moms_spaghetti/extensions/active_record/callback_ext"
 
 module MomsSpaghetti
   class Railtie < Rails::Railtie

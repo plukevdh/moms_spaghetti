@@ -5,6 +5,5 @@ class User < ActiveRecord::Base
   def something
     puts "never gonna give you up"
   end
-
 end
 

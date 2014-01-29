@@ -18,7 +18,7 @@ And that's it. Literally.
 
 Try to add or use callbacks in your models and you'll get flipping callbacks in your face.
 
-And by flippung callbacks, I mean ❨╯°□°❩╯︵sʞɔɐqllɐɔ. Quite literally.
+And by flipping callbacks, I mean ❨╯°□°❩╯︵sʞɔɐqllɐɔ. Quite literally.
 
 ## Disclaimers
 
